@@ -5,8 +5,7 @@ using System.Web;
 
 namespace Bazar.Models
 {
-    public class Class1
+    public class Class2
     {
-        public int ID { get; set; }
     }
 }
